@@ -1,0 +1,39 @@
+img {
+    width: 450px;
+    border-radius: 50px;
+}
+img {
+    border-radius: 50px;
+    align-self: center;
+}
+body {
+    text-align: center;
+    font-size:x-large;
+    font-family:fantasy;
+    background: linear-gradient(180deg, #cba9a9 30%, #c9e399e4 40%, #bfcaaeea 100%, #e4cbcb 10%);
+    min-height: 100vh;
+}
+div {
+    align-items: center;
+    width: 1100px;
+    margin: 50px auto;
+    background-color: #e3f4ddbf;
+    padding: 10px 20px;
+    border-radius: 150px;
+    border-style:groove;
+}
+h1 {
+     color: #5c3d2e;
+  font-size: 3rem;
+  text-shadow: 4px 4px 0px #fff;
+  background-color: #f4ddeebf;  
+  padding: 10px 20px;
+  border-radius: 50px;
+  border-style:dotted;
+}
+button {
+    width: 200px;height:50px;
+    font-size:large; 
+    font-family:cursive;
+    font-weight:bolder;
+}
